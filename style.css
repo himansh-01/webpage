@@ -206,7 +206,7 @@ html, body{
 
 @media (min-width:375px){
     .container{
-        max-width: 100%;
+        max-width: 50%;
         max-height: 100%;
     }
 }
